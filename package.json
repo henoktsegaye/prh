@@ -1,14 +1,17 @@
 {
   "name": "pull-react-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pull React Hooks",
   "type": "module",
   "main": "index.js",
   "bin": "./dist/index.js",
   "readme": "readme.md",
+  "author": "Henok Tsegaye <maxhenock@gmail.com> (https://henoktsegaye.com)",
+  "licenses": "MIT",
+  "homepage": "https://github.com/henoktsegaye/custom-react-hooks#readme",
   "repository": {
     "type": "git",
-    "url": "git+henoktsegaye/pull-react-hooks.git"
+    "url": "https://github.com/henoktsegaye/custom-react-hooks"
   },
   "scripts": {
     "build": "tsc",
@@ -18,7 +21,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.1.2",
