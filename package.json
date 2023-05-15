@@ -1,6 +1,6 @@
 {
   "name": "pull-react-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pull React Hooks",
   "type": "module",
   "main": "index.js",

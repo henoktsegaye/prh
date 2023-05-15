@@ -61,7 +61,7 @@ const welcome = async () => {
 };
 program
     .description("PRH (Pull react hooks) is a CLI tool to install custom react hooks from github repo - custom-react-hooks")
-    .version("1.0.0")
+    .version("1.0.1")
     .option("-v, --version", "output the current version")
     .option("-h, --help", "output usage information")
     .option("-l, --list", "list all available hooks")
