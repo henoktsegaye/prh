@@ -8,10 +8,10 @@
   "readme": "readme.md",
   "author": "Henok Tsegaye <maxhenock@gmail.com> (https://henoktsegaye.com)",
   "licenses": "MIT",
-  "homepage": "https://github.com/henoktsegaye/custom-react-hooks#readme",
+  "homepage": "https://github.com/henoktsegaye/pull-react-hooks#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/henoktsegaye/custom-react-hooks"
+    "url": "https://github.com/henoktsegaye/pull-react-hooks"
   },
   "scripts": {
     "build": "tsc",
@@ -20,7 +20,7 @@
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "react-hook"],
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.1.2",
