@@ -78,7 +78,7 @@ program
   .description(
     "PRH (Pull react hooks) is a CLI tool to install custom react hooks from github repo - custom-react-hooks"
   )
-  .version("1.0.2")
+  .version("1.0.3")
   .option("-v, --version", "output the current version")
   .option("-h, --help", "output usage information")
   .option("-l, --list", "list all available hooks")
@@ -97,8 +97,7 @@ if (options.list) {
 
 if (options.help) {
   welcome();
-  console.log(chalk.greenBright("PRH version 1.0.0"));
-  console.log(
+   console.log(
     chalk.greenBright(
       "PRH (Pull react hooks) is a CLI tool to install custom react hooks from github repo - custom-react-hooks"
     )
