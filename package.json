@@ -5,6 +5,11 @@
   "type": "module",
   "main": "index.js",
   "bin": "./dist/index.js",
+  "readme": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+henoktsegaye/pull-react-hooks.git"
+  },
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ext .ts src",
